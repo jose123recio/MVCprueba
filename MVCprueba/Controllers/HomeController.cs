@@ -10,7 +10,9 @@ namespace MVCprueba.Controllers
     {
         public ActionResult Index()
         {
+            int kk = 0;
             return View();
+
 
         }
 
